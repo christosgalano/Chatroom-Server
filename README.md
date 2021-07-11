@@ -5,7 +5,7 @@ This project implements a simple chat room server using the TCP protocol.
 
 ## Functionality ##
 
-* Multiple clients can connect to the server
+* Multiple clients can connect to one server
 
 * In order for a client to connect to the server and use the chatroom they
 must first login - if a user with their username already exists - or create
