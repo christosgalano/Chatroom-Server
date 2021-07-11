@@ -1,9 +1,11 @@
 import argparse
+import pathlib
 
 from src.Client.client import Client
 
 
 def main(host, port):
+    pathlib.Path("data/Users").mkdir(parents=True, exist_ok=True)
     client = Client(host, port)
     client.start()
 

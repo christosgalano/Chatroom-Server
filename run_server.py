@@ -1,9 +1,12 @@
 import argparse
+import pathlib
 
 from src.Server.server import Server
 
 
 def main(host, port):
+    pathlib.Path("data/Server").mkdir(parents=True, exist_ok=True)
+
     server = Server(host, port)
     server.start()
 
