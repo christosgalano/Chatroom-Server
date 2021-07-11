@@ -25,7 +25,5 @@ Run "pip install ." from the top-level directory (Chatroom_Server if you do not 
 
 ## Run ##
 
-In order to start the server run "python run_server -h" so that you can information regarding the
-different options of the command line.
-
-Similarly, to start a client run "python run_client -h".
+Run "python run_server -h" so that you can get information regarding the different options of the command line.
+Similarly run "python run_client -h".
