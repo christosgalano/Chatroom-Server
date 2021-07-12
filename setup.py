@@ -29,7 +29,6 @@ setup(
     zip_safe=False,
     classifiers=[
         'Development Status :: 3 - Alpha',
-        'Intended Audience :: Education',
         "License :: OSI Approved :: BSD License",
         'Natural Language :: English',
         'Programming Language :: Python',
