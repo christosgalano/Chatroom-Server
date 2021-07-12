@@ -1,5 +1,6 @@
 ### Todo
 
+- [ ] Add comments
 - [ ] Make the server able to shutdown with "QUIT" input from terminal
 - [ ] Add admit-user 
 - [ ] Give admit-user the ability to kick users from the chatroom
