@@ -1,10 +1,9 @@
 ### Todo
 
-- [ ] Add comments
 - [ ] Make the server able to shutdown with "QUIT" input from terminal
-- [ ] Add admit-user 
-- [ ] Give admit-user the ability to kick users from the chatroom
-- [ ] Give admit-user the ability to ban permanently users from the chatroom
+- [ ] Add admitn 
+- [ ] Give admin the ability to kick users from the chatroom
+- [ ] Give admit the ability to ban permanently users from the chatroom
 
 ### Done ✓
 
